@@ -1,9 +1,3 @@
-// CMPT 275 Assignment 3
-// Author: Chin Ho Wan 301308171
-// file: Circle
-// Circle Class (extends Ellipse Class)
-
-package A3;
 
 public class Circle extends Ellipse{
 
