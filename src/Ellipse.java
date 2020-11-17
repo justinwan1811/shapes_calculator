@@ -1,7 +1,3 @@
-// CMPT 275 Assignment 3
-// Author: Chin Ho Wan 301308171
-// file: Ellipse
-// Ellipse Class (implements Shape interface)
 
 package A3;
 
