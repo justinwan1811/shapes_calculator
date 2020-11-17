@@ -1,7 +1,6 @@
-// CMPT 275 Assignment 3
-// Author: Chin Ho Wan 301308171
+
 // file: Square
-// Square Class (extends Rectangle Class)
+// Square Class 
 
 package A3;
 
