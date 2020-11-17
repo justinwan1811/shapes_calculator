@@ -1,7 +1,5 @@
-// CMPT 275 Assignment 3
-// Author: Chin Ho Wan 301308171
-// file: MyPanel
-// GUI (Panel) drawing Shape (extend JPanel)
+
+// GUI (Panel) for drawing Shape 
 
 package A3;
 
