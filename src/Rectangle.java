@@ -1,7 +1,6 @@
-// CMPT 275 Assignment 3
-// Author: Chin Ho Wan 301308171
+
 // file: Rectangle
-// Rectangle Class (implements Shape interface)
+// Rectangle Class
 
 package A3;
 
