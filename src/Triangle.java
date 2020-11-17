@@ -1,7 +1,6 @@
-// CMPT 275 Assignment 3
-// Author: Chin Ho Wan 301308171
+
 // file: Triangle
-// Triangle Class (implements Shape interface)
+// Triangle Class
 
 package A3;
 
